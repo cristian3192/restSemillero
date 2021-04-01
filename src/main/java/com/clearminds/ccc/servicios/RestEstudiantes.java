@@ -10,6 +10,9 @@ import javax.ws.rs.core.MediaType;
 import com.clearminds.ccc.dtos.Estudiante;
 import com.clearminds.ccc.excepciones.BDDException;
 
+/**
+ * Es un archivo de prueba :)
+ */
 
 
 @Path("/estudiantes")
