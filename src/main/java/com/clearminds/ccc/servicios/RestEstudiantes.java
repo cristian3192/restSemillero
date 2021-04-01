@@ -11,7 +11,8 @@ import com.clearminds.ccc.dtos.Estudiante;
 import com.clearminds.ccc.excepciones.BDDException;
 
 /**
- * Es un archivo de prueba :)
+ * Es un archivo de prueba
+ * Para saber cuando se realiza el rebase o merge 
  */
 
 
